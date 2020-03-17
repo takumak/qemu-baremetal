@@ -1,4 +1,10 @@
 /*
+ * original from:
+ * https://git.trustedfirmware.org/TF-A/trusted-firmware-a.git/tree/lib/libc/printf.c?h=v2.2
+ *
+ */
+
+/*
  * Copyright (c) 2014-2018, ARM Limited and Contributors. All rights reserved.
  *
  * SPDX-License-Identifier: BSD-3-Clause
